@@ -3,10 +3,14 @@
 An AI-powered resume analyzer that provides ATS (Applicant Tracking System) scores and personalized feedback for job applications. Upload your resume, provide job details, and get instant AI-powered insights to improve your chances of landing your dream job.
 
 <div align="center">
+
+**🌐 [Live Demo](https://ai-resume-analyzer-one-mocha.vercel.app/)** | [GitHub Repository](https://github.com/abhayybhatt/ai-resume-analyzer)
+
   <img alt="Static Badge" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
   <img alt="Static Badge" src="https://img.shields.io/badge/Puter.js-181758?style=for-the-badge&logoColor=white">
+
 </div>
 
 ## ✨ Features
